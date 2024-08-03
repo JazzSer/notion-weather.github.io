@@ -1,2 +1,2 @@
 # notion-weather
-Creating a notion weather widget for myself
+Creating a notion weather widget for myself using Github Pages
